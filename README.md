@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangikashalani&label=Profile%20views&color=0e75b6&style=flat" alt="rangikashalani" /> </p>
 
-- 🔭 I’m currently working on [FlashWork](https://github.com/Flashwork-G28)
+- 👯 I’m looking to collaborate on [FlashWork](https://github.com/Flashwork-G28)
 
 - 👯 I’m looking to collaborate on [FitBot](https://github.com/FITBOT-Gym-Management-System)
 
