@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rangika Shalani</h1>
-<h3 align="center">University of Colombo Undergraduate</h3>
+<h3 align="center">Fresh Graduated in Computer Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangikashalani&label=Profile%20views&color=0e75b6&style=flat" alt="rangikashalani" /> </p>
 
