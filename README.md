@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shalani Chethana</h1>
-<h3 align="center">Fresh Graduated in Computer Science</h3>
-
+<h5 align="center">Graduated in Computer Science</h5>
+<h3 align="center">Software Engineer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rangikashalani&label=Profile%20views&color=0e75b6&style=flat" alt="rangikashalani" /> </p>
 
 - 👯 I’m looking to collaborate on [FlashWork](https://github.com/Flashwork-G28)
